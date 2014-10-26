@@ -24,6 +24,6 @@ twitter.com/nitacawo.
 * 5. Check if Enable anti-piracy is turned off for testing period (services>Linked apps)
 * 6. Don't know if you need your google play services clicked on published. But after few hours of frustration I did so.(if your app in beta its not going to be in market anyway so no worries)
 
-I've added screenshots from my console.
+####I've added screenshots from my console and phone
 
 
