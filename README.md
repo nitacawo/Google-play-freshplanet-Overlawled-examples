@@ -1,10 +1,9 @@
 ###Instructions
 * Well first of all run up to date air sdk :)
 * Connect your game with game services(In google developer console>game services>add a new game)
-* ## Modify your-app.xml file 
 
 ![](/screenshots/1.png?raw=true)
-
+* Modify your-app.xml file 
 Package name in console must be with air. and be the same as your app id in xml
  ```xml
   <id>TrollBootman</id>
