@@ -34,7 +34,7 @@
 ![](/screenshots/3.png?raw=true)
 ======
 ======
-##### if it is not like showed on the screen you need to ad game services again but use **I already use GOOGLE APIS in my game** button find your app and add. Check if it shows up properly this time.
+##### it must be the same as in developer console if it is not go back and add game services again but this time use  **I already use GOOGLE APIS in my game** button, find your app and add.Check again if it shows up properly this time.
 ![](/screenshots/4.png?raw=true)
 ##if you have questions twitter.com/nitacawo
 ####I've added screenshots from my console and phone
