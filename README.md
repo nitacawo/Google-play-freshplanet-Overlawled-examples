@@ -17,12 +17,12 @@ I will provide you with my "Balalaika" app ids. Sorry guys, situation seems incr
 twitter.com/nitacawo.
 
 ######Steps you most certainly need to take:
-1.Well first of all run up to date air sdk :)
-2. Upload apk with google play services implemented in console. It definetely notices that you impelemented it.
-3.Activate test mode in game services>Testing
-4.Make sure your Package name starst with air. in game services>Linked apps
-5. Check if Enable anti-piracy is turned off for testing period (services>Linked apps)
-6. Don't know if you need your google play services clicked on published. But after few hours of frustration I did so.(if your app in beta its not going to be in market anyway so no worries)
+* 1.Well first of all run up to date air sdk :)
+* 2. Upload apk with google play services implemented in console. It definetely notices that you impelemented it.
+* 3.Activate test mode in game services>Testing
+* 4.Make sure your Package name starst with air. in game services>Linked apps
+* 5. Check if Enable anti-piracy is turned off for testing period (services>Linked apps)
+* 6. Don't know if you need your google play services clicked on published. But after few hours of frustration I did so.(if your app in beta its not going to be in market anyway so no worries)
 
 I've added screenshots from my console.
 
