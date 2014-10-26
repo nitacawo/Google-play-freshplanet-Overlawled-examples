@@ -1,10 +1,11 @@
 ###Instructions
 * Well first of all run up to date air sdk :)
+* Upload apk with google play services implemented in console. You must use the same certificate.
 * Connect your game with game services(In google developer console>game services>add a new game)
 
 ![](/screenshots/1.png?raw=true)
 * Modify your-app.xml file 
-Package name in console must be with air. and be the same as your app id in xml
+**Package name** in console must be with **air.** and be the same as your app **id** in xml
  ```xml
   <id>TrollBootman</id>
  ```
@@ -23,11 +24,12 @@ Package name in console must be with air. and be the same as your app id in xml
 </manifest>]]></manifestAdditions>
     </android>
  ```
-* Upload apk with google play services implemented in console. You must use the same certificate.
-* Make sure your Package name starst with air. in game services>Linked apps
-* 5. Check if Enable anti-piracy is turned off for testing period (services>Linked apps)
 
-##Questions  twitter.com/nitacawo
+
+#### Goto Game details scroll down to API CONSOLE PROJECT and click your project name
+![](/screenshots/2.png?raw=true)
+
+##if you have questions twitter.com/nitacawo
 ####I've added screenshots from my console and phone
 
 
