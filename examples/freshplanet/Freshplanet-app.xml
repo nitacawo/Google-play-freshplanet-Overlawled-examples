@@ -36,41 +36,18 @@
   <icon/>
   <customUpdateUI>false</customUpdateUI>
   <allowBrowserInvocation>false</allowBrowserInvocation>
-
-  
    <android>
         <manifestAdditions><![CDATA[<manifest>
 <uses-sdk android:minSdkVersion="9"></uses-sdk>
 <application>
 
 				<!-- GooglePlay Games Services -->
-				<meta-data android:name="com.google.android.gms.games.APP_ID" android:value="\ 780805382798" />
+				<meta-data android:name="com.google.android.gms.games.APP_ID" android:value="\ 84364063738" />
 				<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
 				<activity android:name="com.freshplanet.googleplaygames.SignInActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
             </application>	
 </manifest>]]></manifestAdditions>
     </android>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <extensions>
     <extensionID>com.freshplanet.AirGooglePlayGamesService</extensionID>
     <extensionID>com.vungle.extensions.android.GooglePlayServices</extensionID>

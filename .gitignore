@@ -1,3 +1,5 @@
 *.tmp
 *.html
 readme.txt
+*.p12
+*.txt

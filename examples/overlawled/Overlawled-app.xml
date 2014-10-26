@@ -20,9 +20,9 @@
   <id>TrollBootman</id>
   <versionNumber>1.0.9</versionNumber>
   <versionLabel/>
-  <filename>Overlawled</filename>
+  <filename>TrollBootman</filename>
   <description/>
-  <name>Overlawled</name>
+  <name>TrollBootman</name>
   <copyright/>
   <initialWindow>
     <content>Overlawled.swf</content>
@@ -42,7 +42,7 @@
 <application>
 
 				<!-- GooglePlay Games Services -->
-				<meta-data android:name="com.google.android.gms.games.APP_ID" android:value="\ 780805382798" />
+				<meta-data android:name="com.google.android.gms.games.APP_ID" android:value="\ 84364063738" />
 				<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
 				<activity android:name="com.freshplanet.googleplaygames.SignInActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
             </application>	

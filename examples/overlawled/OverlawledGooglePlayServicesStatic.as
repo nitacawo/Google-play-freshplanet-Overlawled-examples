@@ -13,7 +13,7 @@
 	//fill free to follow me on twitter:)
 	public class OverlawledGooglePlayServicesStatic 
 	{
-		private static var LeaderBoardId:String = "CgkIjsWC3dwWEAIQAQ";
+		private static var LeaderBoardId:String = "CgkI-uf1o7oCEAIQBg";
 		public static var dispatcher:EventDispatcher = new EventDispatcher();
 
 		public function OverlawledGooglePlayServicesStatic() 
