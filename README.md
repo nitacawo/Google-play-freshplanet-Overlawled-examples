@@ -8,9 +8,8 @@ WHAT WE HAVE: these examples are working correctly and I believe issue lies on g
 If i swap back to "Troll" project ids, in both examples you will see google play window offering you to sign in, afterwards
 in freshplanet example you will get ON_SIGN_IN_FAIL and in overlawled example app crashes.
 
-TO SUM UP:It might be that it just takes couple of days for services to get activated.I do remember having same issues then I tried to implement it for my "Balalaika" project and banging my head for couple of days maybe it just needs to get activated...
-I will check it in a few days. If it won't work I might try to spend few more hours to find out but if it works with
-other project ids...I believe I need to dig in the google console direction. If someone want's to make sure that these examples actually work and I don't talk rubbish just contact me on twitter 
+TO SUM UP:It might be that it just takes couple of days for services to get activated.I do remember having same issues then I tried to implement it for my "Balalaika" project and banging my head for couple of days...
+I will check it in a few days. If someone want's to make sure that these examples actually work just contact me on twitter 
 I will provide you with my "Balalaika" app ids. Sorry guys, situation seems incredibly frustrating.
 twitter.com/nitacawo.
 
