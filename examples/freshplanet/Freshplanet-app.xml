@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!-- 
+	Usage:
+
+	To localize the description, use the following format for the description element.
+	<description>
+	<text xml:lang="en">English App description goes here</text>
+	<text xml:lang="fr">French App description goes here</text>
+	<text xml:lang="ja">Japanese App description goes here</text>
+	</description>
+
+	To localize the name, use the following format for the name element.
+	<name>
+	<text xml:lang="en">English App name goes here</text>
+	<text xml:lang="fr">French App name goes here</text>
+	<text xml:lang="ja">Japanese App name goes here</text>
+	</name>
+-->
+<application xmlns="http://ns.adobe.com/air/application/15.0">
+  <id>TrollBootman</id>
+  <versionNumber>1.0.9</versionNumber>
+  <versionLabel/>
+  <filename>Troll Bootman</filename>
+  <description/>
+  <name>Troll Bootman</name>
+  <copyright/>
+  <initialWindow>
+    <content>Freshplanet.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <fullScreen>true</fullScreen>
+    <aspectRatio>portrait</aspectRatio>
+    <renderMode>auto</renderMode>
+    <autoOrients>false</autoOrients></initialWindow>
+  <icon/>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+
+  
+   <android>
+        <manifestAdditions><![CDATA[<manifest>
+<uses-sdk android:minSdkVersion="9"></uses-sdk>
+<application>
+
+				<!-- GooglePlay Games Services -->
+				<meta-data android:name="com.google.android.gms.games.APP_ID" android:value="\ 780805382798" />
+				<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+				<activity android:name="com.freshplanet.googleplaygames.SignInActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+            </application>	
+</manifest>]]></manifestAdditions>
+    </android>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <extensions>
+    <extensionID>com.freshplanet.AirGooglePlayGamesService</extensionID>
+    <extensionID>com.vungle.extensions.android.GooglePlayServices</extensionID>
+  </extensions>
+</application>
