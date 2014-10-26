@@ -24,14 +24,17 @@
 </manifest>]]></manifestAdditions>
     </android>
  ```
-
-======================================
+======
+======
 ##### Goto Game details scroll down to API CONSOLE PROJECT and click your project name
 ![](/screenshots/2.png?raw=true)
+======
+======
 ##### Check if in api & auth>Credentials> **package name** is the same as in the developer console 
 ![](/screenshots/3.png?raw=true)
-##### if it is not like showed on the screen you need to ad game services again but use **I already use GOOGLE APIS in my game** button find your app and add. Check if it shows up properly this time.
 ======
+======
+##### if it is not like showed on the screen you need to ad game services again but use **I already use GOOGLE APIS in my game** button find your app and add. Check if it shows up properly this time.
 ![](/screenshots/4.png?raw=true)
 ##if you have questions twitter.com/nitacawo
 ####I've added screenshots from my console and phone
