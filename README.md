@@ -25,6 +25,9 @@
  ```
 ========================
 ========================
+========================
+========================
+##### if your app shows the google play window but fails to connect or crashes check out the issue which might happen
 ##### Goto Game details scroll down to API CONSOLE PROJECT and click your project name
 ![](/screenshots/2.png?raw=true)
 ========================
@@ -39,7 +42,8 @@
 ==========================================
 ==========================================
 
-##if you have questions twitter.com/nitacawo
+*you don't need to publish game services to test it with your own account.
+
 
 
 
