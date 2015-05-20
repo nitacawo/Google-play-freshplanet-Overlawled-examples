@@ -1,4 +1,8 @@
 ###Instructions
+###freshplanet-Overlawled-examples are deprecated as they don't support android 5 use alextel69 with nightwolftamb fork instead. Added live project example in to the repository
+alextel69 repository https://github.com/alextel69/google-play-game-services-ane
+nightwolftamb repository https://github.com/nightwolftamb/google-play-game-services-ane
+
 * Well first of all run up to date air sdk :)
 * Upload apk with google play services implemented in console. You must use the same certificate.
 * Connect your game with game services(In google developer console>game services>add a new game)
